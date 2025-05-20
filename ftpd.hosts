@@ -1,0 +1,13 @@
+<virtualserver 0.0.0.0:22>
+EnableUTF8:yes
+EnableModeZTransfer:yes
+SupportWindowsBackslash:yes
+ServerNotes:"sftp"
+ServerProtocol:"SSH"
+ServerHostKeyName:"New Host Key"
+</virtualserver>
+
+<virtualserver 0.0.0.0:21>
+ServerNotes:"ftp"
+</virtualserver>
+

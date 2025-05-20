@@ -1,0 +1,66 @@
+<virtualserver 0.0.0.0:22>
+
+<username "admin1">
+VirtualPath: "/a/|c:\|RWCLADNS"
+VirtualPath: "/b/|d:\|RWCLADNS"
+VirtualPath: "/c/|e:\|RWCLADNS"
+VirtualPath: "/d/|e:\|RWCLADNS"
+VirtualPath: "/e/|e:\|RWCLADNS"
+VirtualPath: "/f/|f:\|RWCLADNS"
+VirtualPath: "/f/|f:\|RWCLADNS"
+VirtualPath: "/g/|v:\|RWCLADNS"
+VirtualPath: "/i/|v:\|RWCLADNS"
+VirtualPath: "/j/|v:\|RWCLADNS"
+VirtualPath: "/k/|v:\|RWCLADNS"
+VirtualPath: "/l/|v:\|RWCLADNS"
+VirtualPath: "/m/|v:\|RWCLADNS"
+VirtualPath: "/n/|v:\|RWCLADNS"
+VirtualPath: "/o/|v:\|RWCLADNS"
+VirtualPath: "/p/|v:\|RWCLADNS"
+VirtualPath: "/q/|v:\|RWCLADNS"
+VirtualPath: "/r/|v:\|RWCLADNS"
+VirtualPath: "/s/|v:\|RWCLADNS"
+VirtualPath: "/t/|v:\|RWCLADNS"
+VirtualPath: "/u/|v:\|RWCLADNS"
+VirtualPath: "/v/|v:\|RWCLADNS"
+VirtualPath: "/w/|v:\|RWCLADNS"
+VirtualPath: "/x/|v:\|RWCLADNS"
+VirtualPath: "/y/|v:\|RWCLADNS"
+VirtualPath: "/z/|v:\|RWCLADNS"
+</username>
+
+</virtualserver>
+
+<virtualserver 0.0.0.0:21>
+
+<username "admin1">
+VirtualPath: "/a/|c:\|RWCLADNS"
+VirtualPath: "/b/|d:\|RWCLADNS"
+VirtualPath: "/c/|e:\|RWCLADNS"
+VirtualPath: "/d/|e:\|RWCLADNS"
+VirtualPath: "/e/|e:\|RWCLADNS"
+VirtualPath: "/f/|f:\|RWCLADNS"
+VirtualPath: "/f/|f:\|RWCLADNS"
+VirtualPath: "/g/|v:\|RWCLADNS"
+VirtualPath: "/i/|v:\|RWCLADNS"
+VirtualPath: "/j/|v:\|RWCLADNS"
+VirtualPath: "/k/|v:\|RWCLADNS"
+VirtualPath: "/l/|v:\|RWCLADNS"
+VirtualPath: "/m/|v:\|RWCLADNS"
+VirtualPath: "/n/|v:\|RWCLADNS"
+VirtualPath: "/o/|v:\|RWCLADNS"
+VirtualPath: "/p/|v:\|RWCLADNS"
+VirtualPath: "/q/|v:\|RWCLADNS"
+VirtualPath: "/r/|v:\|RWCLADNS"
+VirtualPath: "/s/|v:\|RWCLADNS"
+VirtualPath: "/t/|v:\|RWCLADNS"
+VirtualPath: "/u/|v:\|RWCLADNS"
+VirtualPath: "/v/|v:\|RWCLADNS"
+VirtualPath: "/w/|v:\|RWCLADNS"
+VirtualPath: "/x/|v:\|RWCLADNS"
+VirtualPath: "/y/|v:\|RWCLADNS"
+VirtualPath: "/z/|v:\|RWCLADNS"
+</username>
+
+</virtualserver>
+
